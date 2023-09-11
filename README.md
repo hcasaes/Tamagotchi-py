@@ -1,2 +1,2 @@
-# Tamagochi-py
+# Tamagotchi-py
 Exercício em python (pet virtual).
